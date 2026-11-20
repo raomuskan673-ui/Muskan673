@@ -8,10 +8,11 @@ I'm a passionate student . I love tackling complex problems, learning new skills
 
 - 🌱 Currently learning:**[AI/ML]**
 - 🔭 Working on:
-- 🌍 Languages: **[python,hindi, English]**
+- 🌍 Languages: **[hindi, English]**
 - 📫 How to reach me: **[raomuskan673@gmail.com]**
 - ⚡ Fun fact: **[i like to blow my own trumpet]**
-.
+- 📝 languages : **.[python].**
+  
 
 ## Get in Touch 📬
 
